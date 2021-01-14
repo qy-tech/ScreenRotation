@@ -16,6 +16,8 @@ android:sharedUserId="android.uid.system"
 
 ## Demo apk
 
-We have added the compiled app, you can use it directly
+We have added the compiled [app](https://github.com/qy-tech/ScreenRotation/releases)
+, you can use it directly
+
 
 
